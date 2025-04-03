@@ -20,8 +20,8 @@ function generateJWT() {
   
     //JWTのJSON Claims Set
     const jsonClaimsSet = {
-    "iss": "vhcOxTGq178hC0Mgnn3b",
-    "sub": "9ia34.serviceaccount@pcdesk-iwate-univcoop",
+    "iss": "***",
+    "sub": "***",
     "iat": Math.round(now / 1000),
     "exp": Math.round(expires.getTime() / 1000)
     };

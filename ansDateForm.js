@@ -11,8 +11,7 @@ const TARGET_QUESTIONS_NUMBER = 8;
 
 // 営業日のカレンダー用スプレッドシートのID
 // (注)エクセルファイルは読み込めない、カレンダーはスプレッドシートにすること
-// const CALENDER_SHEETS_ID = "1QjlcQGPHpuSdebCVdGjXJE_ASsngFhVXQfcXC3p1c88";
-const CALENDER_SHEETS_ID = "1rS44N9j-1hnroe2k3s5jUnKPOq6hfNF9iOBVNsO6DHI";
+const CALENDER_SHEETS_ID = "***";
 
 // カレンダーの情報
 const ROW_START = 6;

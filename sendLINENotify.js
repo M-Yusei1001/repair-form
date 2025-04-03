@@ -1,8 +1,8 @@
 // LINE Notifyのトークン
-const notifyToken = "RIsboQI03Jqu9loFvpYyYItlE3QgYgEK0lg7lBvYw16";
+const notifyToken = "***";
 
 // テストグループ用LINE Notifyトークン
-const test_notifyToken = "7XE1KCdUTtKQETsxtLvnb9R22CUUJ9vXjMzgKSDS1ic";
+const test_notifyToken = "***";
 
 // LINEに含める項目の数：上限 -> "対応希望日"まで
 const maxResLength = 8
